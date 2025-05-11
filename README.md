@@ -16,7 +16,7 @@ This repository contains tools, scripts, and models designed to:
 - Jupyter Notebooks
 
 ## 📁 Repository Structure
-📁 models/ - Simulation models 
-📁 scripts/ - Python scripts for analysis
-📁 data/ - Sample inputand output datasets
-📁 docs/ - Reports 
+- 📁 models/ - Simulation models 
+- 📁 scripts/ - Python scripts for analysis
+- 📁 data/ - Sample inputand output datasets
+- 📁 docs/ - Reports 

@@ -18,5 +18,5 @@ This repository contains tools, scripts, and models designed to:
 ## 📁 Repository Structure
 - 📁 models/ - Simulation models 
 - 📁 scripts/ - Python scripts for analysis
-- 📁 data/ - Sample inputand output datasets
+- 📁 data/ - Sample input and output datasets
 - 📁 docs/ - Reports 

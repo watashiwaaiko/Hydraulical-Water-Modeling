@@ -11,12 +11,10 @@ This repository contains tools, scripts, and models designed to:
 ## 🛠️ Tools and Technologies
 - EPANET / OpenFlows WaterGEMS
 - Excel sheets for input data
-- Python
 - Microsot Word for report
-- Jupyter Notebooks
+
 
 ## 📁 Repository Structure
 - 📁 models/ - Simulation models 
-- 📁 scripts/ - Python scripts for analysis
 - 📁 data/ - Sample input and output datasets
 - 📁 docs/ - Reports 
